@@ -1,0 +1,14 @@
+How to run the program?
+Double click on the file "PA-1-Executable.exe"
+all spreadsheets and text files will be created in the cwd
+
+How were spreadsheets generated?
+All spreadsheets and text documents are generated programatically
+
+
+Group member contribution
+Joshua Peel 1: 20% (Joshua J. Peel)
+Graydon Hodges 2: 20% (Graydon G. Hodges)
+Tony Wilson 3: 20% (Tony Wilson)
+Jordan Day 4: 20% (Jordan Day)
+Benjamin Strong 5: 20% (Benjamin Strong)
